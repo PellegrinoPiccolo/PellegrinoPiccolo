@@ -15,7 +15,7 @@
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="80" title="HTML5">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="80" title="CSS3">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" title="JAVASCRIPT"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" title=""PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" title="MYSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" title="JAVA"/>

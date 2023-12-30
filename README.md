@@ -20,6 +20,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" title="JAVA"/>
 </div>
+<br>
+<h1 align="center">Progress with -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" title="PYTHON"/></h1>
+<div align="center">
+  <img src="https://github.com/PellegrinoPiccolo/PellegrinoPiccolo/assets/152791429/21738eea-fe9b-4714-a367-a318f93f398d" width="600" title="PYTHON LOADING BAR"/>
+</div>
 <!---
 PellegrinoPiccolo/PellegrinoPiccolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

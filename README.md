@@ -23,7 +23,7 @@
 <br>
 <h1 align="center">Progress with -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" title="PYTHON"/></h1>
 <div align="center">
-  <img src="https://github.com/PellegrinoPiccolo/PellegrinoPiccolo/assets/152791429/c469cc08-48a4-49ee-b114-3eca16dffdd0" width="600" title="PYTHON LOADING BAR"/>
+  <img src="https://github.com/PellegrinoPiccolo/PellegrinoPiccolo/assets/152791429/c4feced0-3dea-4f44-8ca0-503ee928bee1" width="600" title="PYTHON LOADING BAR"/>
 </div>
 <!---
 PellegrinoPiccolo/PellegrinoPiccolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

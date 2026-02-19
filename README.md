@@ -1,31 +1,57 @@
-# My Presentation
-- 👋 Hi, I’m Pellegrino Piccolo - @PellegrinoPiccolo 
-- 🌱 I’m currently learning computer science in Italy
-- 📫 You can contact me by email at this address: piccolopellegrino22@gmail.com
-- ℹ️ For more information you can visit my personal website: https://pellegrinopiccolo.github.io/
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Ciao,+sono+Pellegrino+Piccolo;Hello,+I'm+Pellegrino+Piccolo;Full-Stack+%26+Mobile+Developer;Computer+Science+Student" alt="Typing SVG" />
+  
+  <p align="center">
+    <a href="https://piccolopellegrino.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7000FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:piccolopellegrino22@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/pellegrino-piccolo-2a6739247/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-# La mia presentazione
-- 👋 Ciao, Sono Pellegrino Piccolo - @PellegrinoPiccolo 
-- 🌱 Sto studiando attualmente Informatica in Italia
-- 📫 Puoi contattarmi a questo indirizzo: piccolopellegrino22@gmail.com
-- ℹ️ Per maggiori informazioni puoi visitare il mio sito personale: https://pellegrinopiccolo.github.io/
-<br>
-<h1 align="center">The languages I use / I linguaggi che uso</h1>
+---
+
+### 🇮🇹 Chi sono
+Ciao! Sono **Pellegrino**, studio Informatica e mi diverto a costruire app e siti web.
+Mi piace prendere un'idea e trasformarla in codice, cercando sempre di creare qualcosa di veloce e bello da vedere.
+
+* 💻 Focus: **Web & Mobile Development**
+* 📫 Contattami: **piccolopellegrino22@gmail.com**
+
+### 🇬🇧 About Me
+Hey! I'm **Pellegrino**, a CS student who loves building web and mobile apps.
+I enjoy turning ideas into code, always aiming to create things that look great and run smooth.
+
+* 💻 Focus: **Web & Mobile Development**
+* 📫 Contact me: **piccolopellegrino22@gmail.com**
+
+---
+
+<h2 align="center">🚀 Skills & Expertise</h2>
+
 <div align="center">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="80" title="HTML5">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="80" title="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" title="JAVASCRIPT"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" title="MYSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" title="JAVA"/>
+  <p>My technical toolkit spans across modern web and mobile technologies</p>
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  
+  <br />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
-<br>
-<h1 align="center">Progress with -> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" title="PYTHON"/></h1>
-<div align="center">
-  <img src="https://github.com/PellegrinoPiccolo/PellegrinoPiccolo/assets/152791429/c4feced0-3dea-4f44-8ca0-503ee928bee1" width="600" title="PYTHON LOADING BAR"/>
-</div>
-<!---
-PellegrinoPiccolo/PellegrinoPiccolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
